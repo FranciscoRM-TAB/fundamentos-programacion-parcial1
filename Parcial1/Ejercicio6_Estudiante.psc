@@ -1,7 +1,7 @@
 Algoritmo Notas
 	Definir N, i, aprobadas, reprobadas Como Entero
 	Definir nota, suma_total, suma_aprob, suma_reprob Como Real
-	Escribir '¿Cuántas notas vas a ingresar?'
+	Escribir 'Â¿CuÃ¡ntas notas vas a ingresar?'
 	Leer N
 	i <- 1
 	aprobadas <- 0
