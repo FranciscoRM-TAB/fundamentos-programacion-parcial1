@@ -8,11 +8,11 @@ Algoritmo CalificacionesGrupo
 	suma_promedios <- 0
 	
 	Mientras continuar = "S" O continuar = "s" Hacer
-		Escribir "Ingresa la calificación del parcial 1:"
+		Escribir "Ingresa la calificaciÃ³n del parcial 1:"
 		Leer p1
-		Escribir "Ingresa la calificación del parcial 2:"
+		Escribir "Ingresa la calificaciÃ³n del parcial 2:"
 		Leer p2
-		Escribir "Ingresa la calificación del parcial 3:"
+		Escribir "Ingresa la calificaciÃ³n del parcial 3:"
 		Leer p3
 		
 		prom_alumno <- (p1 + p2 + p3) / 3
@@ -21,7 +21,7 @@ Algoritmo CalificacionesGrupo
 		suma_promedios <- suma_promedios + prom_alumno
 		total_alumnos <- total_alumnos + 1
 		
-		Escribir "¿Deseas capturar otro alumno? (Escribe S para sí, o N para no):"
+		Escribir "Â¿Deseas capturar otro alumno? (Escribe S para sÃ­, o N para no):"
 		Leer continuar
 	FinMientras
 	
