@@ -1,10 +1,10 @@
 Algoritmo PromedioEstatus
 	Definir calif1, calif2, calif3, promedio Como Real
-	Escribir "Ingresa la calificación 1:"
+	Escribir "Ingresa la calificaciÃ³n 1:"
 	Leer calif1
-	Escribir "Ingresa la calificación 2:"
+	Escribir "Ingresa la calificaciÃ³n 2:"
 	Leer calif2
-	Escribir "Ingresa la calificación 3:"
+	Escribir "Ingresa la calificaciÃ³n 3:"
 	Leer calif3
 	
 	promedio <- (calif1 + calif2 + calif3) / 3
