@@ -1,13 +1,13 @@
 Algoritmo OperacionesDosNumeros
 	Definir num1, num2, resultado Como Real
-	Escribir "Ingresa el primer número:"
+	Escribir "Ingresa el primer nÃºmero:"
 	Leer num1
-	Escribir "Ingresa el segundo número:"
+	Escribir "Ingresa el segundo nÃºmero:"
 	Leer num2
 	
 	Si num1 = num2 Entonces
 		resultado <- num1 * num2
-		Escribir "Son iguales. La multiplicación es: ", resultado
+		Escribir "Son iguales. La multiplicaciÃ³n es: ", resultado
 	SiNo
 		Si num1 > num2 Entonces
 			resultado <- num1 - num2
